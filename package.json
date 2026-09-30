@@ -1,15 +1,15 @@
 {
-  "name": "api-imc3",
+  "name": "api_imc2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "express": "^5.2.1"
   },
@@ -19,3 +19,4 @@
     "typescript": "^7.0.2"
   }
 }
+
